@@ -5,3 +5,12 @@ SSH through Windows using PuTTY : https://www.raspberrypi.org/documentation/remo
 Enable VNC : https://www.raspberrypi.org/documentation/remote-access/vnc/README.md
 Securing RaspPI : https://www.raspberrypi.org/documentation/configuration/security.md
 UPDATING AND UPGRADING RASPBIAN : https://www.raspberrypi.org/documentation/raspbian/updating.md
+USING KEY-BASED AUTHENTICATION [pending]
+install fail2ban [pending]
+testing tester, dummy [pending]
+sudo apt-get clean
+SCHEDULING TASKS WITH CRON [pending] : https://www.raspberrypi.org/documentation/linux/usage/cron.md
+Customizing GUI : https://www.raspberrypi.org/forums/viewtopic.php?t=133691 [optional]
+
+Raspian + PIXEL : https://gist.github.com/kmpm/8e535a12a45a32f6d36cf26c7c6cef51
+Vim learning : https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85 [if free]
