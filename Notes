@@ -1,0 +1,7 @@
+Headless Raspberry Pi Setup : https://hackernoon.com/raspberry-pi-headless-install-462ccabd75d0
+Installing OS images & flashing using Etcher: https://www.raspberrypi.org/documentation/installation/installing-images/README.md
+Find IP address : https://www.raspberrypi.org/documentation/remote-access/ip-address.md
+SSH through Windows using PuTTY : https://www.raspberrypi.org/documentation/remote-access/ssh/windows.md
+Enable VNC : https://www.raspberrypi.org/documentation/remote-access/vnc/README.md
+Securing RaspPI : https://www.raspberrypi.org/documentation/configuration/security.md
+UPDATING AND UPGRADING RASPBIAN : https://www.raspberrypi.org/documentation/raspbian/updating.md
